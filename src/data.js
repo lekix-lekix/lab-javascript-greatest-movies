@@ -562,7 +562,7 @@ const movies = [
   },
   {
     title: 'Citizen Kane',
-    year: 1941,
+    year: 1941, 
     director: 'Orson Welles',
     duration: '1h 59min',
     genre: ['Drama', 'Mystery'],
